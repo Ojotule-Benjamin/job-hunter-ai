@@ -1,0 +1,14 @@
+{
+  "name": "job-hunter-ai",
+  "version": "1.0.0",
+  "description": "jobHunterAi is designed to revolutionize the job hunting experience",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ajodo Ojotule Benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
